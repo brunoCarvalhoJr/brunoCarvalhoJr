@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bruno Henrique Moreira Carvalho ( @brunoCarvalhoJr )
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning dotnet6 and react native
+- 🌱 I’m currently learning dotnet6 and react
 - 💞️ I’m looking to collaborate on systems in reactjs and dotnet6
 - 📫 How to reach me bruno.jr.ti@hotmail.com
 
