@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning dotnet6 and react
 - 💞️ I’m looking to collaborate on systems in reactjs and dotnet6
 - 📫 How to reach me bruno.jr.ti@hotmail.com
+- 👀 My portfolio is brunoc.dev.br
 
 <!---
 brunoCarvalhoJr/brunoCarvalhoJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
